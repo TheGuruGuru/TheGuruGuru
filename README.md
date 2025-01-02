@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGuruGuru
 - 👀 I’m interested in all sorts of computer science
-- 🌱 I’m currently learning c++, webdevelopement with html and co and linux
+- 🌱 I’m currently learning c++, webdevelopement with html and co, java for minecraft and linux
 - 😄 Pronouns: he
 
 <!---
